@@ -1,0 +1,23 @@
+module.exports = {
+  mainnet: {
+    "publickey": "",
+    "privatekey": ""
+  },
+  shasta: {
+    "publickey": "",
+    "privatekey": ""
+  },
+  nile: {
+    "publickey": "",
+    "privatekey": ""
+  },
+  tronex: {
+    "publickey": "",
+    "privatekey": ""
+  },
+  development: {
+    "publickey": "",
+    "privatekey": "da146374a75310b9666e834ee4ad0866d6f4035967bfc76217c5a495fff9f0d0"
+  },
+
+}

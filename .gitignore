@@ -1,0 +1,5 @@
+/build
+/docker
+/node_modules
+/.env
+/privatekey.js
